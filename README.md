@@ -14,5 +14,18 @@ The following Python skills were incorporated into this project.
 The following Power BI skills were also incorporated into this project.
 - Data transformation.
 - Knowledge of DAX functions.
-- Dynamic text.
 - Data visualization.
+## Data sourcing
+The data was obtained via scrapping of rental properties on [Property24](https://www.property24.com.ng/1-bedroom-properties-to-rent-in-lagos-p37?), a local property listing website. On the website, the location was set to 'Lagos', and the number of beds was set to '1+' in order to achieve the project's aim. Applying these filters on the website reduced results to just 181 properties. This was done to avoid overloading the website with requests, ensuring a smoother and more considerate scraping process that respects the website's server capacity and performance.
+
+A well-commented [Python script](https://github.com/emmywritescode/Web-Scraping-a-Property-Listing-Website/blob/main/Web%20Scraping%20a%20Property%20Listing%20Website.ipynb) was crafted within Jupyter Notebook, employing essential libraries like BeautifulSoup, Selenium's WebDriver, and Pandas. A base URL  was initiated which iterated through web pages, gathering desired data into predefined lists. The loop ceased once pages no longer met the scraping criteria. Finally, the data was stored in a dictionary and exported as a CSV file.
+
+
+
+
+
+
+
+
+
+
