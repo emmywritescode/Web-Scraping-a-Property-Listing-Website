@@ -10,6 +10,7 @@ The following Python skills were incorporated into this project.
 - Handling dynamic content.
 - Data extraction and storage.
 - Data cleaning.
+
 The following Power BI skills were also incorporated into this project.
 - Data transformation.
 - Knowledge of DAX functions.
