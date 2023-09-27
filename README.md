@@ -28,11 +28,12 @@ The data was further transformed in the Power Query Editor on Power BI. The 'Per
 Analysis revealed the following:
 - There are 175 properties of which 153 are Existing and only 22 are Newly-built.
 - 73.1% of the properties give potential home dwellers the opportunity to pay rent on a 'Per Year' basis and 23.4% allow rent to be paid on a 'Per Month' basis.
-- Most of the properties can be classed as 'Standard' (124) while there are only 8 Luxury properties based on the Rent and Rent Period.
+- Most of the properties are classed as 'Standard' (124) while there are only 8 Luxury properties based on the Rent and Rent Period.
 - Most of the properties are either 3 or 4-bedroom apartments.
 - There are no Newly-built luxury properties.
-- ...location visual
+- The majority of the properties are located in Ikoyi-Obalende area of Lagos.
 ![]()
+
 The interactive dashboard can be accessed [here]().
 ## Conclusion
 The dashboard offers a comprehensive overview of rental properties listed on Estate Hub 24. The use of interactive filters enables potential renters to narrow down their choices based on available listings. Additionally, a drill-through page provides further details for each property, including the exact rent based on the rental period. Overall, the property listing firm has made it easy for everyone to find their dream home without any hassle.
