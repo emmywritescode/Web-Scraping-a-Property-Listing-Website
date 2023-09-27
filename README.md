@@ -29,8 +29,10 @@ Analysis revealed the following:
 - There are 175 properties of which is Existing and only Newly-built.
 - of the properties give potential home dwellers the opportunity to pay rent on a 'Per Year' basis and '' allowed rent to be paid on a 'Per Month' basis.
 - Most of the properties can be classed as 'Standard'
+![]()
+The interactive dashboard can be accessed [here]().
 ## Conclusion
-The dashboard provides a comprehensive overview of rental properties listed by Estate Hub 24. The use of interactive filters allows potential home renters to zero down on their preferred choices based on the available listings. A drill-through page also provides further details of each property especially the exact rent based on the rent period. Overall, the establishment has made it easy for everyone to discover their dream home without any hassle.
+The dashboard provides a comprehensive overview of rental properties listed by Estate Hub 24. The use of interactive filters allows potential home renters to zero down on their preferred choices based on the available listings. A drill-through page also provides further details of each property including the exact rent based on the rent period. Overall, the property listing firm has made it easy for everyone to discover their dream home without any hassle.
 
 
 
