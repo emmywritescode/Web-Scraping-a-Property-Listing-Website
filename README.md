@@ -32,11 +32,12 @@ Analysis revealed the following:
 - Most of the properties are either 3 or 4-bedroom apartments.
 - There are no Newly-built luxury properties.
 - The majority of the properties are located in Ikoyi-Obalende area of Lagos.
-![]()
+- Standard class properties are not available for rent on a 'Per Week' basis.
+![](dashboard.jpg)
 
 The interactive dashboard can be accessed [here]().
 ## Conclusion
-The dashboard offers a comprehensive overview of rental properties listed on Estate Hub 24. The use of interactive filters enables potential renters to narrow down their choices based on available listings. Additionally, a drill-through page provides further details for each property, including the exact rent based on the rental period. Overall, the property listing firm has made it easy for everyone to find their dream home without any hassle.
+The dashboard offers a comprehensive overview of rental properties listed on Estate Hub 24. The use of interactive filters enables potential renters to narrow down their choices based on available listings. Additionally, a drill-through page provides further details for each property, including the exact rent based on the rental period. Overall, the dashboard has made it easy for everyone to find their dream home without any hassle.
 
 
 
