@@ -1,7 +1,7 @@
 # Web Scraping a Property Listing Website
 ![](intro.jpg)
 ## Introduction
-This project leverages Python's versatility in performing web scraping and data cleaning operations before analysis and visualization was completed in Power BI. Real-time data from [Property24](https://www.property24.com.ng/1-bedroom-properties-to-rent-in-lagos-p37?), a local property listings website was scrapped. The goal of the project was to make a single-page dashboard that helps property renters and potential home dwellers find their dream homes.
+This project leverages Python's versatility in performing web scraping and data cleaning operations while analysis and visualization was completed in Power BI. Real-time data from Property24, a local property listings website was scrapped. The goal of the project was to make a single-page dashboard that helps property renters and potential home dwellers find their dream homes.
 ## Skills demonstrated
 The following Python skills were incorporated into this project.
 - Importing Python libraries.
@@ -14,7 +14,6 @@ The following Python skills were incorporated into this project.
 The following Power BI skills were also incorporated into this project.
 - Data transformation.
 - Knowledge of DAX functions.
-- Drill-through page
 - Data analysis and visualization.
 ## Data sourcing
 The data was obtained via scrapping of rental properties on [Property24](https://www.property24.com.ng/1-bedroom-properties-to-rent-in-lagos-p37?), a local property listing website. On the website, the location was set to 'Lagos', and the number of beds was set to '1+' in order to achieve the project's aim. Applying these filters on the website reduced results to just 181 properties. This was done to avoid overloading the website with requests, ensuring a smoother and more considerate scraping process that respects the website's server capacity and performance.
