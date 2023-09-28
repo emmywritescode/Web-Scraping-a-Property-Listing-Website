@@ -33,6 +33,7 @@ Analysis revealed the following:
 - There are no Newly-built luxury properties.
 - The majority of the properties are located in Ikoyi-Obalende area of Lagos.
 - Standard class properties are not available for rent on a 'Per Week' basis.
+
 ![](dashboard.jpg)
 
 The interactive dashboard can be accessed [here]().
