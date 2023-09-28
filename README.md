@@ -36,7 +36,7 @@ Analysis revealed the following:
 
 ![](dashboard.jpg)
 
-The interactive dashboard can be accessed [here]().
+The interactive dashboard can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiZDkwODExNDMtMTMxMC00MTYwLTlkZTQtYjU5NGViMzUyYzliIiwidCI6ImQ4NzlkOWE0LTZmODEtNDU4NS1iYWJjLWM4OGZjMzBmZTc3YiJ9).
 ## Conclusion
 The dashboard offers a comprehensive overview of rental properties listed on Estate Hub 24. The use of interactive filters enables potential renters to narrow down their choices based on available listings. Additionally, a drill-through page provides further details for each property, including the exact rent based on the rental period. Overall, the dashboard has made it easy for everyone to find their dream home without any hassle.
 
